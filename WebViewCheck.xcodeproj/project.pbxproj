@@ -15,6 +15,7 @@
 		52138C921E37AA9C0042C15B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52138C901E37AA9C0042C15B /* LaunchScreen.storyboard */; };
 		52138C9D1E37AA9D0042C15B /* WebViewCheckTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52138C9C1E37AA9D0042C15B /* WebViewCheckTests.m */; };
 		52138CA81E37AA9D0042C15B /* WebViewCheckUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52138CA71E37AA9D0042C15B /* WebViewCheckUITests.m */; };
+		52138CB61E37ABA10042C15B /* Pedometer.html in Resources */ = {isa = PBXBuildFile; fileRef = 52138CB51E37ABA10042C15B /* Pedometer.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		52138CA31E37AA9D0042C15B /* WebViewCheckUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WebViewCheckUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52138CA71E37AA9D0042C15B /* WebViewCheckUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WebViewCheckUITests.m; sourceTree = "<group>"; };
 		52138CA91E37AA9D0042C15B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52138CB51E37ABA10042C15B /* Pedometer.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = Pedometer.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		52138C811E37AA9C0042C15B /* WebViewCheck */ = {
 			isa = PBXGroup;
 			children = (
+				52138CB51E37ABA10042C15B /* Pedometer.html */,
 				52138C851E37AA9C0042C15B /* AppDelegate.h */,
 				52138C861E37AA9C0042C15B /* AppDelegate.m */,
 				52138C881E37AA9C0042C15B /* ViewController.h */,
@@ -248,6 +251,7 @@
 			files = (
 				52138C921E37AA9C0042C15B /* LaunchScreen.storyboard in Resources */,
 				52138C8F1E37AA9C0042C15B /* Assets.xcassets in Resources */,
+				52138CB61E37ABA10042C15B /* Pedometer.html in Resources */,
 				52138C8D1E37AA9C0042C15B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
